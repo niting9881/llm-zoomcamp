@@ -1,2 +1,2 @@
 # llm-zoomcamp
-Bootcampe for LLM
+LLM Bootcamp
