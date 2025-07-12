@@ -120,7 +120,6 @@ await cognee.search(query_text="your question")
 ---
 
 ## 🔗 Resources
-- [Cognee Docs](https://docs.cognee.io)
-- [dlt Docs](https://docs.dlt.dev)
-- [dlt Community Slack](https://dlthub.slack.com)
-- [Cognee GraphRAG Colab](https://colab.research.google.com/github/CogneeAI/examples/blob/main/simple_graphrag.ipynb)
+- [Cognee Docs](https://docs.cognee.ai/))
+- [dlt Docs](https://dlthub.com/docs/intro)
+
